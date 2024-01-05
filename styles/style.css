@@ -1,0 +1,22 @@
+/* *{
+    margin: 50px;
+} */
+.img{
+    width: 30%;
+    border: solid black 1px;
+}
+#OF{
+    margin-left: 70px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    color: rgb(0, 100, 251);
+}
+.for-more{
+    /* padding-right: 200px; */
+}
+.comment{
+    padding: 10px;
+}
+.sub{
+    margin-top: 10px;
+}
